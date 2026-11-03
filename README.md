@@ -67,6 +67,4 @@ tests/      Automated smoke test for every program
 | 19       | Numerical optimization                         | `code/Task_19_optimization.py`              |
 | 20       | Random numbers and Monte Carlo                 | `code/Task_20_monte_carlo.py`               |
 
-## Individual submission checklist
 
-For each task, explain the inputs and mathematical operation, describe the parameter change and its effect, interpret printed output and any graph, and document the alternative case in the task guide using your own words. Add your own discussion and any lecturer-required evidence before pushing this project to your individual GitHub repository and submitting its link and documentation through VLMS.
